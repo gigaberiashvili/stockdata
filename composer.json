@@ -1,0 +1,15 @@
+{
+    "name": "user/stockmarket",
+    "autoload": {
+        "psr-4": {
+            "Giga\\StockMarket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "giga",
+            "email": "beriashvili.gi@gmail.com"
+        }
+    ],
+    "require": {}
+}
